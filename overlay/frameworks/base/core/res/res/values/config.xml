@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 Benzo Rom
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- arrays -->
+    <string-array name="config_defaultFirstUserRestrictions">
+        <item>no_oem_unlock</item>
+    </string-array>
+    <string-array name="config_locationExtraPackageNames">
+        <item>com.google.android.gms.location.history</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+    </string-array>
+    <string-array name="config_nightDisplayColorTemperatureCoefficients">
+        <item>0.0</item>
+        <item>0.0</item>
+        <item>1.0</item>
+        <item>-0.000000014365268757</item>
+        <item>0.000255092801250106</item>
+        <item>-0.064156942434907716</item>
+        <item>-0.000000000910931179</item>
+        <item>0.000207598323269139</item>
+        <item>-0.349361641294833436</item>
+    </string-array>
+    <string-array name="config_restrictedPreinstalledCarrierApps">
+        <item>com.tmobile.grsuapp</item>
+    </string-array>
+    <integer-array name="non_removable_euicc_slots">
+        <item>0</item>
+    </integer-array>
+    <!-- bools -->
+    <bool name="config_allowDisablingAssistDisclosure">true</bool>
+    <bool name="config_buttonTextAllCaps">false</bool>
+    <bool name="config_defaultRingtonePickerEnabled">false</bool>
+    <bool name="config_enableAutoPowerModes">true</bool>
+    <bool name="config_enableFusedLocationOverlay">true</bool>
+    <bool name="config_enableGeocoderOverlay">true</bool>
+    <bool name="config_enableGeofenceOverlay">true</bool>
+    <bool name="config_enableNetworkLocationOverlay">true</bool>
+    <bool name="config_fingerprintSupportsGestures">true</bool>
+    <bool name="config_sendPackageName">true</bool>
+    <bool name="config_smart_battery_available">true</bool>
+    <bool name="config_supportLongPressPowerWhenNonInteractive">true</bool>
+    <bool name="config_swipe_up_gesture_setting_available">true</bool>
+    <bool name="config_useRoundIcon">true</bool>
+    <!-- dimens -->
+    <dimen name="config_bottomDialogCornerRadius">16.0dip</dimen>
+    <dimen name="config_buttonCornerRadius">4.0dip</dimen>
+    <dimen name="config_dialogCornerRadius">8.0dip</dimen>
+    <item type="dimen" name="config_fullTaskSnapshotScale">0.8</item>
+    <dimen name="config_progressBarCornerRadius">1000.0dip</dimen>
+    <!-- integers -->
+    <integer name="config_storageManagerDaystoRetainDefault">60</integer>
+    <!-- strings -->
+    <string name="config_deviceProvisioningPackage" translatable="false">com.google.android.apps.work.oobconfig</string>
+</resources>

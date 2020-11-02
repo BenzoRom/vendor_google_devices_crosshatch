@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Lo slot per la scheda SIM si trova nella parte in basso a sinistra del telefono.
+
+Utilizza lo strumento di espulsione della scheda SIM fornito con il telefono per aprire lo slot e inserire una nano SIM.
+
+Dopo aver inserito la scheda SIM, potrebbero essere necessari alcuni secondi per l'attivazione."</string>
+</resources>

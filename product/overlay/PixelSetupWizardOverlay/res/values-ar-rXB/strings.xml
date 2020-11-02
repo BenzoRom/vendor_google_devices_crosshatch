@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"‏‮The‬‏ ‏‮SIM‬‏ ‏‮card‬‏ ‏‮tray‬‏ ‏‮is‬‏ ‏‮located‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮bottom‬‏ ‏‮left‬‏ ‏‮edge‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮phone.‬‏
+
+‏‮Use‬‏ ‏‮the‬‏ ‏‮SIM‬‏ ‏‮ejection‬‏ ‏‮tool‬‏ ‏‮that‬‏ ‏‮comes‬‏ ‏‮with‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮to‬‏ ‏‮eject‬‏ ‏‮the‬‏ ‏‮tray‬‏ ‏‮and‬‏ ‏‮insert‬‏ ‏‮a‬‏ ‏‮nano‬‏ ‏‮SIM‬‏ ‏‮card.‬‏
+
+‏‮Once‬‏ ‏‮you‬‏ ‏‮insert‬‏ ‏‮your‬‏ ‏‮SIM‬‏ ‏‮card,‬‏ ‏‮it‬‏ ‏‮may‬‏ ‏‮take‬‏ ‏‮a‬‏ ‏‮few‬‏ ‏‮seconds‬‏ ‏‮to‬‏ ‏‮activate.‬‏"</string>
+</resources>

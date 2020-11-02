@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM kartı tepsisi, telefonunuzun sol alt kenarındadır.
+
+Tepsiyi çıkarmak ve nano SIM kart takmak için telefonunuzla birlikte gelen SIM çıkarma aracını kullanın.
+
+SIM kartınızı taktıktan sonra etkinleşmesi için birkaç saniye geçmesi gerekebilir."</string>
+</resources>

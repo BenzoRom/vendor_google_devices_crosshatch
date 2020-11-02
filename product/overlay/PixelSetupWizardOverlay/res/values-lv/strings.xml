@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM kartes paliktnis atrodas tālruņa apakšējā kreisajā malā.
+
+Izmantojiet tālruņa komplektācijā iekļauto SIM kartes izņemšanas rīku, lai izņemtu paliktni un ievietotu nano SIM karti.
+
+Pēc SIM kartes ievietošanas var būt nepieciešamas dažas sekundes, lai to aktivizētu."</string>
+</resources>

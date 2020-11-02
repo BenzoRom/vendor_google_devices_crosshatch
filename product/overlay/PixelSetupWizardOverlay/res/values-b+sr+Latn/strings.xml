@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Držač za SIM karticu se nalazi u gornjem levom uglu telefona.
+
+Pomoću alatke za izbacivanje SIM kartice koju dobijate uz telefon izbacite držač i umetnite nano SIM karticu.
+
+Kada umetnete SIM karticu, potrebno je nekoliko sekundi da se aktivira."</string>
+</resources>

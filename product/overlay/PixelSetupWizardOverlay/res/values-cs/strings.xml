@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Držák SIM karty se nachází na levém dolním okraji telefonu.
+
+Vložte špendlík na vysunutí SIM karty, který jste s telefonem obdrželi, vyjměte držák a vložte nano SIM kartu.
+
+Po vložení SIM karty může její aktivace několik sekund trvat."</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM kortelės dėklas yra apatiniame kairiajame telefono krašte.
+
+Kad pašalintumėte SIM kortelės dėklą ir įdėtumėte SIM nanokortelę, naudokite telefone esantį SIM pašalinimo įrankį.
+
+Įdėjus SIM kortelę, gali praeiti kelios sekundės, kol ji bus suaktyvinta."</string>
+</resources>

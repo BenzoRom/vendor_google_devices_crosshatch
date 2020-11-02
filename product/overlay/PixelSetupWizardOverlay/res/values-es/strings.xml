@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"La bandeja de la tarjeta SIM está situada en el borde inferior izquierdo del teléfono.
+
+Usa la herramienta incluida con el teléfono para extraer la bandeja e insertar una tarjeta nano SIM.
+
+Es posible que la tarjeta SIM tarde unos segundos en activarse después de insertarla."</string>
+</resources>

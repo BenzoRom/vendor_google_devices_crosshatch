@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM 卡槽位於手機的左下方側邊。
+
+請使用手機隨附的 SIM 卡針將 SIM 卡槽彈出，然後插入 Nano SIM 卡。
+
+SIM 卡插入後，可能需要數秒才能啟用。"</string>
+</resources>

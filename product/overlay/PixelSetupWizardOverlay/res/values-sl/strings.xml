@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Nosilec kartice SIM je na spodnjem levem robu telefona.
+
+Iztaknite nosilec z orodjem za izmet kartice SIM, ki je priloženo telefonu, in vstavite kartico nano-SIM.
+
+Ko vstavite kartico SIM, lahko aktivacija traja nekaj sekund."</string>
+</resources>

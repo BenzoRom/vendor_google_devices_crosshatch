@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM-kortskuffen er plassert ved kanten nederst til venstre på telefonen din.
+
+Bruk SIM-utløserverktøyet som følger med telefonen, for å løse ut skuffen. Deretter setter du inn et nano-SIM-kort.
+
+Når du har satt inn SIM-kortet, tar det noen sekunder før det blir aktivert."</string>
+</resources>

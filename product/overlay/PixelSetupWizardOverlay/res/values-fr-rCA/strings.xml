@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Le porte-carte SIM se situe sur le bord inférieur gauche de votre téléphone.
+
+Utilisez l'outil d'éjection de la carte SIM fourni avec le téléphone pour éjecter le plateau et insérer une carte nano SIM.
+
+Une fois votre carte SIM insérée, l'activation peut prendre quelques secondes."</string>
+</resources>

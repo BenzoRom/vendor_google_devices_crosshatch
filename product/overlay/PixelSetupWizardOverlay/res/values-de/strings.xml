@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Das SIM-Kartenfach befindet sich links unten an deinem Smartphone.
+
+Nutze den im Lieferumfang des Smartphones enthaltenen SIM-Auswurfschlüssel, um das Kartenfach herauszunehmen, und lege eine Nano-SIM-Karte ein.
+
+Nachdem du die SIM-Karte eingelegt hast, kann es einige Sekunden dauern, bis sie aktiviert wird."</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"La safata de la targeta SIM es troba al lateral inferior esquerre del telèfon.
+
+Utilitza l'eina per extreure la targeta SIM que es proporciona amb el telèfon per expulsar la safata i inserir-hi una targeta nano-SIM.
+
+Un cop introdueixis la targeta SIM, pot tardar uns quants segons a activar-se."</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"O tabuleiro para cartão SIM está localizado na extremidade inferior esquerda do telemóvel.
+
+Utilize a Ferramenta de ejeção do SIM fornecida com o telemóvel para ejetar o tabuleiro e inserir um cartão nano SIM.
+
+Depois de o introduzir, a ativação do mesmo pode demorar alguns segundos."</string>
+</resources>

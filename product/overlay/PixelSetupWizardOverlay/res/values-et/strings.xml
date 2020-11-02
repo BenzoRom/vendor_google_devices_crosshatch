@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM-kaardi salv asub telefoni vasakus ülaservas.
+
+Salve väljutamiseks ja nano-SIM-kaardi sisestamiseks kasutage telefoniga kaasasolevat SIM-kaardi väljutamistööriista.
+
+Kui SIM-kaardi sisestate, võib selle aktiveerimiseks kuluda mõni sekund."</string>
+</resources>

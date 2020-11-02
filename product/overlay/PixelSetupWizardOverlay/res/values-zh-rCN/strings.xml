@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM 卡托位于手机左下边缘。
+
+请使用手机随附的 SIM 卡弹出工具将卡托弹出，然后插入 nano SIM 卡。
+
+SIM 卡插入后可能要过几秒钟才能激活。"</string>
+</resources>

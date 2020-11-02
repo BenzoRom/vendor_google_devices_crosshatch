@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM 卡匣位於手機左下方的側邊。
+
+請使用手機隨附的 SIM 卡退出工具將卡匣退出，然後插入 Nano SIM 卡。
+
+SIM 卡插入之後，可能需要幾秒鐘的時間才能啟用。"</string>
+</resources>

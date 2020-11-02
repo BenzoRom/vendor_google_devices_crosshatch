@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"A SIM-kártya tálcája a telefon bal alsó élén található.
+
+A telefonhoz tartozó SIM-eltávolító eszközzel vegye ki a tálcát, és helyezzen be nano-SIM-kártyát.
+
+A SIM-kártya behelyezését követően néhány másodpercet vehet igénybe az aktiválás."</string>
+</resources>

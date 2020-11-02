@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"A bandexa da tarxeta SIM atópase no bordo inferior esquerdo do teléfono.
+
+Utiliza a ferramenta para expulsar a tarxeta SIM que se inclúe no teléfono a fin de expulsar a bandexa e inserir unha tarxeta nano SIM.
+
+Unha vez inserida, pode tardar uns segundos en activarse."</string>
+</resources>

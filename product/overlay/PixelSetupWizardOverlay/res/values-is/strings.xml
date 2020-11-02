@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM-kortabakkinn er neðst á vinstri brún símans.
+
+Notaðu verkfærið sem fylgdi með símanum til þess að ná bakkanum út og setja nanó-SIM-kort í hann.
+
+Það gæti tekið SIM-kortið nokkrar sekúndur að virka eftir að því er stungið inn."</string>
+</resources>

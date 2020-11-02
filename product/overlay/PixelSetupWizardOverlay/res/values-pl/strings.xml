@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Gniazdo karty SIM znajduje się z boku telefonu, w jego dolnej lewej części.
+
+Aby je wysunąć i włożyć kartę nano SIM, użyj narzędzia do wyjmowania karty SIM dostarczonego z telefonem.
+
+Aktywowanie włożonej karty SIM może potrwać kilka sekund."</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Ladica za SIM karticu nalazi se na donjem lijevom rubu telefona.
+
+Pomoću alata za izbacivanje SIM-a koji ste dobili uz telefon izbacite ladicu i umetnite nano SIM karticu.
+
+Aktiviranje SIM kartice nakon umetanja može trajati nekoliko sekundi."</string>
+</resources>

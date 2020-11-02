@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Facket för SIM-kort finns på mobilens nedre vänstra kant.
+
+Använd SIM-utmatningsverktyget som följde med mobilen för att mata ut facket och sätt i ett nano-SIM-kort.
+
+Det kan ta några sekunder innan SIM-kortet aktiveras när du har satt i det."</string>
+</resources>

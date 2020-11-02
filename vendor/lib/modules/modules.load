@@ -1,0 +1,15 @@
+ftm5.ko
+heatmap.ko
+pinctrl-wcd.ko
+sec_touch.ko
+snd-soc-cs35l36.ko
+snd-soc-sdm845-max98927.ko
+snd-soc-sdm845.ko
+snd-soc-wcd-spi.ko
+snd-soc-wcd934x.ko
+snd-soc-wcd9xxx.ko
+videobuf2-memops.ko
+videobuf2-vmalloc.ko
+wcd-core.ko
+wcd-dsp-glink.ko
+wlan.ko

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM-kortbakken findes nederst på telefonens venstre kant.
+
+Brug SIM-nålen, som fulgte med telefonen, til at åbne bakken, og indsæt et nano-SIM-kort.
+
+Når du har indsat dit SIM-kort, kan der gå et par sekunder, før det aktiveres."</string>
+</resources>

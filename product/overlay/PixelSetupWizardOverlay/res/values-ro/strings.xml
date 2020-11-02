@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"Suportul pentru cardul SIM se află pe marginea din stânga jos a telefonului.
+
+Folosiți instrumentul pentru scoaterea cardului SIM pe care l-ați primit împreună cu telefonul ca să scoateți suportul și să introduceți un card nano SIM.
+
+După ce introduceți cardul SIM, poate dura câteva secunde până se activează."</string>
+</resources>

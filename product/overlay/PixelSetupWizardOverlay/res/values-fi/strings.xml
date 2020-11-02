@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM-korttikelkka sijaitsee puhelimen vasemmassa alareunassa.
+
+Ota kelkka esiin puhelimen mukana tulleen työkalun avulla ja aseta nano-SIM-kortti kelkkaan.
+
+Kun olet asettanut SIM-kortin puhelimeen, sen aktivointi voi kestää muutaman sekunnin."</string>
+</resources>

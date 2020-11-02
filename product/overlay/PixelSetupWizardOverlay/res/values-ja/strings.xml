@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_missing_content_description">"SIM カードトレイはスマートフォン下部の左端にあります。
+
+スマートフォンに付属の SIM 取り出しツールを使ってトレイを取り出し、nano SIM カードを挿入します。
+
+SIM カードを挿入してから有効になるまで数秒かかることがあります。"</string>
+</resources>
